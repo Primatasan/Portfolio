@@ -7,6 +7,10 @@
     grid-template-columns: repeat(2, 1fr);
 }
 
+.contact_wrapper a{
+    text-decoration: none;
+}
+
 .contact_card{
     display: flex;
     color: var(--font-color);
