@@ -1,6 +1,6 @@
 import Title from '../Title'
 import './Contato.css'
-import { FaGithub, FaEnvelope, FaWhatsapp } from "react-icons/fa6";
+import { FaGithub, FaEnvelope, FaWhatsapp, FaBehance } from "react-icons/fa6";
 
 export default function Contato(){
     return(
@@ -18,6 +18,10 @@ export default function Contato(){
                 <div className='contact_card'>
                     <FaGithub />
                     <p>github.com/primatasan</p>
+                </div>
+                <div className='contact_card'>
+                    <FaBehance />
+                    <p>behance.net/carlosmsdesign</p>
                 </div>
             </div>
         </div>
