@@ -1,0 +1,26 @@
+.footer_box{
+    margin-top: 1em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1.1em 0;
+    color: var(--font-color);
+    font-size: var(--h4-font-size);
+    background-color: var(--secundary-bg-color);
+    font-weight: 300;
+}
+
+.footer_box h3{
+    font-family: var(--paragraph-font-family);
+    font-weight: var(--p-font-weight);
+}
+
+.cc_box{
+    display: flex;
+    margin: 0 0.5em;
+}
+
+.cc_icon{
+    font-size: 1.2em;
+    margin-right: 0.5em;
+}
