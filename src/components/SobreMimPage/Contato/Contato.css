@@ -1,0 +1,20 @@
+.contact_box{
+    padding: 3em 20em;
+}
+
+.contact_wrapper{
+    display: grid;
+    grid-template-columns: repeat(3, 2fr);
+}
+
+.contact_card{
+    display: flex;
+    color: var(--font-color);
+    align-items: center;
+    font-family: var(--paragraph-font-family);
+    font-size: var(--h3-font-size);
+}
+
+.contact_card p{
+    margin-left: 0.8em;
+}

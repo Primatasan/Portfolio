@@ -1,0 +1,33 @@
+@import url(/src/index.css);
+
+.header_box{
+    display: flex;
+    justify-content: space-between;
+    margin: 3em 12em;
+}
+
+.header_box h1{
+    color: var(--font-color);
+    font-family: var(--header-font-family);
+    font-size: var(--h1-font-size);
+    line-height: 85%;
+}
+
+.header_box p{
+    color: var(--font-color);
+    font-family: var(--paragraph-font-family);
+    font-size: var(--h4-font-size);
+    margin-top: 0.5em;
+}
+
+.info{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.icon{
+    color: var(--font-color);
+    font-size: 2em;
+    margin-right: 1em;
+}

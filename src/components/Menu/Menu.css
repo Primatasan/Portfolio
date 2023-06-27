@@ -1,0 +1,20 @@
+@import url(/src/index.css);
+
+.menu_box{
+    height: 5em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.nav_link{
+    text-decoration: none;
+    color: var(--font-color);
+    font-family: var(--paragraph-font-family);
+    font-size: var(--h4-font-size);
+    margin:0 0.5em;
+}
+
+.nav_link:hover{
+    text-decoration: underline;
+}

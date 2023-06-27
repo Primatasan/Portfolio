@@ -1,0 +1,63 @@
+.exp_box{
+    width: 100%;
+    padding: 4em 20em;
+}
+
+.exp_map{
+    display: flex;
+    align-items: flex-start;
+    padding: 0 3em;
+    margin: 4em 0 2em;
+}
+
+.data_card{
+    display: flex;
+    align-items: center;
+}
+
+.data{
+    background-image: url(/src/assets/arrow.svg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 187px;
+    height: 53px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1em;
+    margin-right: 1em;
+}
+
+.data_card .icon{
+    margin-right: 1em;
+    font-size: 1.5em;
+    color: var(--highlight-color);
+}
+
+.data h2{
+    font-family: var(--header-font-family);
+    color: var(--font-color);
+    font-size: var(--h4-font-size);
+}
+
+.text_card h2{
+    color: var(--font-color);
+    font-family: var(--header-font-family);
+    font-size: var(--h3-font-size);
+}
+
+.text_card h3{
+    color: var(--font-color);
+    font-family: var(--header-font-family);
+    font-size: var(--h4-font-size);
+    margin: 0.4em 0;
+}
+
+.text_card p{
+    color: var(--font-color);
+    font-family: var(--paragraph-font-family);
+    font-size: var(--p-font-size);
+    margin-bottom: 1em;
+    text-align: justify;
+}

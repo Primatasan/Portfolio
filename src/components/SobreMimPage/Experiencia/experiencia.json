@@ -1,0 +1,25 @@
+{
+   "exp":[
+        {
+            "key":"01",
+            "data":"Atualmente",
+            "cargo":"Gerente de Projetos",
+            "empresa":"Pravy",
+            "texto":"Na Pravy, comecei como analista de projetos júnior, responsável por parte da conta da Meta, nosso maior cliente na época. Gerenciando uma equipe de 10 colaboradores, desenvolvíamos trabalhos para comunicação interna da empresa, que variavam desde ajustes em apresentações já existentes até o desenvolvimento de novas marcas e vídeos promocionais. Posteriormente, fui promovido a gerente de projetos, cargo que ocupo atualmente, administrando projetos de diversos clientes das mais diversas áreas."
+        },
+        {
+            "key":"02",
+            "data":"2022 - 2023",
+            "cargo":"Front-end e UI Designer",
+            "empresa":"Agência Nós",
+            "texto":"Para a agência Nós, tive a chance de desenvolver minhas habilidades na área de design de UI e desenvolvimento front-end. Trabalhei em diversos projetos, desenvolvendo aplicações web com as ferramentas mais populares do mercado."
+        },
+        {
+            "key":"03",
+            "data":"2019 - 2021",
+            "cargo":"Gerente de Projetos",
+            "empresa":"El Ático DubHouse",
+            "texto":"No estudo de dublagem e legendagem El Ático, sediado na cidade do México, desempenhei as funções de gerente de projeto e product owner. Era responsável por entender, em conjunto com o cliente, suas necessidades, desenvolver cronogramas de dublagem, audicionar e selecionar elenco de vozes, administrar o andamento das gravações e envios de material, e muito mais."
+        }
+    ]
+}

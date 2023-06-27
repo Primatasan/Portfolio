@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@300;400;500;600;700;800;900&family=Roboto+Condensed:wght@700&display=swap');
+
+:root{
+
+    /* Cores do projeto */
+
+    --primary-bg-color:#12161F;
+    --secundary-bg-color: #1b2230;
+    --highlight-color:#6A3693;
+    --block-color:#38445F;
+    --font-color:#FFFFFF;
+    --placeholder-color:rgba(56, 68, 95, 0.50);
+
+    /* Fontes do Projeto */
+
+    --header-font-family:'Roboto Condensed', sans-serif;
+    --paragraph-font-family:'Barlow', sans-serif;
+    
+    /* Tamanhos de fonte */
+
+    --h1-font-size: 128px;
+    --h2-font-size: 40px;
+    --h3-font-size: 32px;
+    --h4-font-size: 24px;
+    --p-font-size: 22px;
+
+    /* Peso das fontes */
+
+    --h3-font-weight: 600;
+    --h4-font-weight: 600;
+    --p-font-weight: 400;
+
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html{
+    background-color: var(--primary-bg-color);
+}

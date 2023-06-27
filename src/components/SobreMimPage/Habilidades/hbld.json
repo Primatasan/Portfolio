@@ -1,0 +1,52 @@
+{
+    "hbld":[
+        {
+            "name": "Figma",
+            "img": "src/assets/habilidades/figma.png"
+        },
+        {
+            "name": "photoshop",
+            "img": "src/assets/habilidades/photoshop.png"
+        },
+        {
+            "name": "illustrator",
+            "img": "src/assets/habilidades/illustrator.png"
+        },
+        {
+            "name": "indesign",
+            "img": "src/assets/habilidades/indesign.png"
+        },
+        {
+            "name": "notion",
+            "img": "src/assets/habilidades/notion.png"
+        },
+        {
+            "name": "vscode",
+            "img": "src/assets/habilidades/vscode.png"
+        },
+        {
+            "name": "git",
+            "img": "src/assets/habilidades/git.png"
+        },
+        {
+            "name": "wordpress",
+            "img": "src/assets/habilidades/wordpress.png"
+        },
+        {
+            "name": "html 5",
+            "img": "src/assets/habilidades/html5.png"
+        },
+        {
+            "name": "css 3",
+            "img": "src/assets/habilidades/css3.png"
+        },
+        {
+            "name": "javascript",
+            "img": "src/assets/habilidades/javascript.png"
+        },
+        {
+            "name": "react",
+            "img": "src/assets/habilidades/react.png"
+        }
+    ]
+}

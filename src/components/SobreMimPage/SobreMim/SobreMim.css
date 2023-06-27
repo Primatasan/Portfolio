@@ -1,0 +1,28 @@
+@import url(/src/index.css);
+
+.sm_box{
+    width: 100%;
+    padding: 4em 20em;
+    background-color: var(--secundary-bg-color);
+}
+
+.sm_card{
+    display: flex;
+    align-items: center;
+}
+
+.sm_box h2{
+    color: var(--font-color);
+    font-family: var(--header-font-family);
+    font-size: var(--h2-font-size);
+}
+
+.sm_box p{
+    color: var(--font-color);
+    font-family: var(--paragraph-font-family);
+    font-size: var(--p-font-size);
+    text-align: justify;
+    line-height: 150%;
+    margin: 1em 0 0 3em;
+}
+
