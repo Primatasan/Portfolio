@@ -2,8 +2,26 @@
     "projetos":[
         {
             "id":"01",
-            "titulo": "",
-            "subtitulo":"",
+            "titulo": "Recicla Cultural",
+            "subtitulo":"Branding | Logo Design",
+            "bloco":""
+        },
+        {
+            "id":"02",
+            "titulo": "Kaizen",
+            "subtitulo":"Branding | Logo Design | UI Desgin",
+            "bloco":""
+        },
+        {
+            "id":"03",
+            "titulo": "Lu Bonometti",
+            "subtitulo":"UI Desgin",
+            "bloco":""
+        },
+        {
+            "id":"04",
+            "titulo": "Aleph",
+            "subtitulo":"UI Desgin",
             "bloco":""
         }
     ]
