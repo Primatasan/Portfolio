@@ -61,52 +61,10 @@
                 "bloco3":"Durante o projeto de atualização do site da Casa Bonometti, optamos por utilizar o plugin Elementor como stack, uma ferramenta que permite grande controle sobre o layout de sites WordPress. Com base nas referências enviadas pela cliente e nos detalhes de sua marca, desenvolvemos um site mais objetivo que o anterior, voltado principalmente para o e-commerce e sempre respeitando os detalhes de sua identidade visual. O Elementor nos permitiu criar um layout personalizado e adaptado às necessidades da Casa Bonometti, otimizando a experiência do usuário e tornando a navegação mais intuitiva e direta. Além disso, também foi possível implementar novos recursos que aprimoraram a experiência do usuário, como a integração de um sistema de carrinho de compras e a utilização de imagens mais impactantes.",
                 "imagem3": "",
                 "titulogrid":"Mockups",
-                "grid1":"",
-                "grid2":"",
-                "grid3":"",
-                "grid4":""
-            }
-        },
-        {
-            "id":4,
-            "titulo": "Aleph",
-            "subtitulo":"UI Desgin",
-            "bloco":
-            {
-                "titulo1":"",
-                "bloco1":"",
-                "imagem1": "",
-                "titulo2":"",
-                "bloco2":"",
-                "imagem2": "",
-                "titulo3":"",
-                "bloco3":"",
-                "imagem3": "",
-                "grid1":"",
-                "grid2":"",
-                "grid3":"",
-                "grid4":""
-            }
-        },
-        {
-            "id":5,
-            "titulo": "Adivinhe o Número",
-            "subtitulo":"Front development",
-            "bloco":
-            {
-                "titulo1":"",
-                "bloco1":"",
-                "imagem1": "",
-                "titulo2":"",
-                "bloco2":"",
-                "imagem2": "",
-                "titulo3":"",
-                "bloco3":"",
-                "imagem3": "",
-                "grid1":"",
-                "grid2":"",
-                "grid3":"",
-                "grid4":""
+                "grid1":"/src/assets/portfolio/3/tela01.png",
+                "grid2":"/src/assets/portfolio/3/tela02.png",
+                "grid3":"/src/assets/portfolio/3/tela03.png",
+                "grid4":"/src/assets/portfolio/3/tela04.png"
             }
         }
     ]
