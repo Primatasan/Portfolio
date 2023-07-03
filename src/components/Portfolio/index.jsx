@@ -1,7 +1,8 @@
 import './Portfolio.css'
 import PortfolioCard from './PortfolioCard'
 
-import {projetos} from './projetos.json'
+
+import {projetos} from '/src/assets/projetos.json'
 
 export default function Portfolio(){
 
@@ -9,11 +10,12 @@ export default function Portfolio(){
         <div className='portfolio_cards_box'>
             <div className='wrapper'>
                 {projetos.map((e) => (
-                    <PortfolioCard 
+                    <PortfolioCard
                         key={e.id} 
                         image={`src/assets/portfolio/${e.id}/${e.id}.png`} 
                         title={e.titulo} 
                         subtitle={e.subtitulo} 
+                        id={e.id}
                     />
                 ))}
             </div>

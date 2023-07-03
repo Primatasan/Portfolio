@@ -1,0 +1,113 @@
+{
+    "projetos":[
+        {
+            "id":1,
+            "titulo": "Recicla Cultural",
+            "subtitulo":"Branding | Logo Design",
+            "bloco":
+                {
+                    "titulo1":"Sobre o Recicla Cultural",
+                    "bloco1":"O projeto RECICLA CULTURAL se estrutura a partir do diálogo com a SOCIEDADE por meio de AÇÕES ARTÍSTICAS, convidado-a a repensar suas práticas de RECICLAGEM para preservar o MEIO AMBIENTE.\nAs ações produzidas pelo RECICLA CULTURAL – levadas a diversos espaços de convivência social como escolas (municipais, estaduais e particulares), teatros, praças, museus e até mesmo às ruas – propõem a sensibilização de cidadãos e cidadãs, das mais diversas idades, buscando promover a responsabilidade compartilhada em relação às ações de recolhimento, separação e higienização dos resíduos recicláveis e orgânicos.",
+                    "imagem1": "/src/assets/portfolio/1/logo.png",
+                    "titulo2":"Sobre o Logo",
+                    "bloco2":"O Logo foi pensado para representar os valores da coleta seletiva, reciclagem e sustentabilidade. As cores utilizadas foram escolhidas para refletir as cores dos diferentes tipos de lixo que são separados na coleta seletiva. O símbolo do infinito foi utilizado para simbolizar a ideia de reciclagem e reutilização, já que o processo de reciclagem pode ser visto como um ciclo infinito. Finalmente, a borboleta foi escolhida para representar a ideia de liberdade e beleza, que são valores fundamentais na cultura.",
+                    "imagem2": "/src/assets/portfolio/1/detalhelogo.png",
+                    "titulo3":"Sobre a fonte",
+                    "bloco3":"Para a escolha da fonte do logo, optamos pela Silicons, uma fonte que tem como característica traços orgânicos, com um toque humano e espontâneo. Essas características são importantes para transmitir a mensagem de sustentabilidade e liberdade que o logo da Recicla Cultural busca passar.",
+                    "imagem3": "/src/assets/portfolio/1/fonte.png",
+                    "titulogrid":"Exemplos de aplicações",
+                    "grid1":"/src/assets/portfolio/1/app01.png",
+                    "grid2":"/src/assets/portfolio/1/app02.png",
+                    "grid3":"/src/assets/portfolio/1/app03.png",
+                    "grid4":"/src/assets/portfolio/1/app04.png"
+                }
+            
+        },
+        {
+            "id":2,
+            "titulo": "Kaizen",
+            "subtitulo":"Branding | Logo Design | UI Desgin",
+            "bloco":
+            {
+                "titulo1":"Sobre o App",
+                "bloco1":"Kaizen é um aplicativo de bem-estar que ajuda os usuários a criar e manter hábitos saudáveis personalizados. Baseado no conceito filosófico de mesmo nome (Do japonês, “mudança para melhor”), nosso aplicativo fornece um controle de rotinas direto e objetivo, para que nosso usuário possa atingir seus objetivos sem distrações. Esse é justamente o diferencial do Kaizen: Em um mar de aplicativos de organização cheios de recursos que desfocam, com uma linguagem condescendente, dispensando ao usuário um tratamento quase Pavloviano, o app Kaizen se apoia em práticas estoicas e minimalistas vindas diretamente do mundo das artes marciais, que permitam que o usuário tenha foco e aceite que, para que seus objetivos sejam alcançados, é necessário foco e responsabilidade.",
+                "imagem1": "",
+                "titulo2":"Sobre o Logo",
+                "bloco2":"O logo do app Kaizen deve ser estoico e minimalista, com linhas retas e diretas e algumas barras para identificar a passagem do tempo, de modo a refletir a filosofia do aplicativo e transmitir a ideia de foco e responsabilidade para o usuário. Essas características são fundamentais para as bases do aplicativo e devem ser levadas em consideração durante o processo de design do logo.",
+                "imagem2": "/src/assets/portfolio/2/logo.png",
+                "titulo3":"Design de Interface",
+                "bloco3":"O design da interface do usuário do Kaizen é um dos principais pontos fortes do aplicativo. É projetado com base em práticas minimalistas e estoicas, refletindo diretamente a abordagem filosófica do projeto. A fonte é clara e de fácil leitura, permitindo que o usuário navegue facilmente pelo aplicativo. As cores escolhidas têm bastante contraste, facilitando a diferenciação de elementos na tela. Além disso, as informações estão sempre ao alcance do usuário, tornando a experiência do usuário mais intuitiva e eficiente. \n A interface do usuário do Kaizen foi projetada para ser altamente funcional e fácil de usar. Não há elementos desnecessários ou distrações, permitindo que o usuário se concentre em sua rotina e objetivos diários. Todos os recursos são claramente identificados e acessíveis, facilitando a navegação no aplicativo. \n Outro aspecto importante da interface do usuário do Kaizen é a sua aparência. O design é moderno e atraente, o que ajuda a criar uma experiência agradável para o usuário. O aplicativo é projetado para ser visualmente atraente, mas sem comprometer a funcionalidade e eficiência.\n\nEm resumo, a interface do usuário do Kaizen é um exemplo de como o design pode ser usado para melhorar a experiência do usuário. É minimalista, funcional, fácil de usar e atraente visualmente. Essa abordagem ajuda a criar um ambiente positivo para o usuário, incentivando-o a manter seus hábitos saudáveis e alcançar seus objetivos de bem-estar.",
+                "imagem3": "/src/assets/portfolio/2/telas.png",
+                "titulogrid":"Mockups",
+                "grid1":"/src/assets/portfolio/2/tela01.png",
+                "grid2":"/src/assets/portfolio/2/tela02.png",
+                "grid3":"/src/assets/portfolio/2/tela03.png",
+                "grid4":"/src/assets/portfolio/2/tela04.png"
+            }
+        },
+        {
+            "id":3,
+            "titulo": "Lu Bonometti",
+            "subtitulo":"UI Desgin",
+            "bloco":
+            {
+                "titulo1":"Sobre a cliente",
+                "bloco1":"Lu Bonometti é uma confeiteira talentosa e empreendedora, que é proprietária da Casa Bonometti, uma confeitaria encantadora situada na região dos Jardins em São Paulo. Depois de passar por uma mudança significativa nem sua marca, Lu precisava de alguém que pudesse ajudá-la a adaptar o seu site, que foi criado em Wordpress, para refletir as novidades. Foi nesse contexto que ela decidiu procurar por alguém que pudesse ajudá-la a atualizar o seu site, para que ele se tornasse um reflexo fiel da sua marca. Com a nossa ajuda, Lu pôde atualizar o seu site com novos recursos, designs e informações que refletiam a personalidade única da sua marca. Foi uma experiência enriquecedora para todos os envolvidos, pois pudemos trabalhar em colaboração com Lu para criar um site que ela amava e que seus clientes adoravam visitar.",
+                "imagem1": "/src/assets/portfolio/3/logo.png",
+                "titulo2":"Sobre o projeto",
+                "bloco2":"Durante o projeto, tivemos como objetivos principais manter as regras de negócio do site anterior e, ao mesmo tempo, aprimorar a experiência do usuário com um novo layout que permitisse uma navegação mais direta e intuitiva, além de refletir a nova identidade visual da marca. Para alcançar esses objetivos, trabalhamos em conjunto com a equipe da Casa Bonometti e partimos do WordPress desenvolvido anteriormente para fazer uma alteração profunda na aparência e navegabilidade do site. Com todas as mudanças, conseguimos proporcionar aos usuários uma experiência de compra online mais agradável e eficiente, além de transmitir com clareza a essência da marca da Casa Bonometti. A colaboração entre nossas equipes permitiu que o projeto fosse realizado de forma efetiva e com sucesso, resultando em um site que reflete a personalidade única da marca e que atende às expectativas da Lu e de seus clientes.",
+                "imagem2": "",
+                "titulo3":"",
+                "bloco3":"Durante o projeto de atualização do site da Casa Bonometti, optamos por utilizar o plugin Elementor como stack, uma ferramenta que permite grande controle sobre o layout de sites WordPress. Com base nas referências enviadas pela cliente e nos detalhes de sua marca, desenvolvemos um site mais objetivo que o anterior, voltado principalmente para o e-commerce e sempre respeitando os detalhes de sua identidade visual. O Elementor nos permitiu criar um layout personalizado e adaptado às necessidades da Casa Bonometti, otimizando a experiência do usuário e tornando a navegação mais intuitiva e direta. Além disso, também foi possível implementar novos recursos que aprimoraram a experiência do usuário, como a integração de um sistema de carrinho de compras e a utilização de imagens mais impactantes.",
+                "imagem3": "",
+                "titulogrid":"Mockups",
+                "grid1":"",
+                "grid2":"",
+                "grid3":"",
+                "grid4":""
+            }
+        },
+        {
+            "id":4,
+            "titulo": "Aleph",
+            "subtitulo":"UI Desgin",
+            "bloco":
+            {
+                "titulo1":"",
+                "bloco1":"",
+                "imagem1": "",
+                "titulo2":"",
+                "bloco2":"",
+                "imagem2": "",
+                "titulo3":"",
+                "bloco3":"",
+                "imagem3": "",
+                "grid1":"",
+                "grid2":"",
+                "grid3":"",
+                "grid4":""
+            }
+        },
+        {
+            "id":5,
+            "titulo": "Adivinhe o Número",
+            "subtitulo":"Front development",
+            "bloco":
+            {
+                "titulo1":"",
+                "bloco1":"",
+                "imagem1": "",
+                "titulo2":"",
+                "bloco2":"",
+                "imagem2": "",
+                "titulo3":"",
+                "bloco3":"",
+                "imagem3": "",
+                "grid1":"",
+                "grid2":"",
+                "grid3":"",
+                "grid4":""
+            }
+        }
+    ]
+}
