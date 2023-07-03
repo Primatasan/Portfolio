@@ -1,0 +1,10 @@
+.portfolio_cards_box{
+    margin: 2em 0 4em;
+}
+
+.portfolio_cards_box .wrapper{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 0 5em;
+}
