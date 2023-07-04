@@ -16,10 +16,9 @@ export default function RoutesApp() {
         <Route path="/" element={<DefautPage />}>
           <Route index element={<SobreMimPage />}/>
           <Route path="portfolio" element={<Portfolio />}/>
-          <Route path="post/:id" element={<Post />} />
-          <Route path="*" element={<Page404 />} />
         </Route>
-
+        <Route path="post/:id" element={<Post />} />
+        <Route path="*" element={<Page404 />} />
       </Routes>
       <ScrollToTop />
     </BrowserRouter>
