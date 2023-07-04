@@ -12,7 +12,7 @@ export default function Portfolio(){
                 {projetos.map((e) => (
                     <PortfolioCard
                         key={e.id} 
-                        image={`src/assets/portfolio/${e.id}/${e.id}.png`} 
+                        image={`https://carlosmsdesign.com.br/portfolio/img/post/${e.id}/${e.id}.png`} 
                         title={e.titulo} 
                         subtitle={e.subtitulo} 
                         id={e.id}
