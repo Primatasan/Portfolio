@@ -2,51 +2,51 @@
     "hbld":[
         {
             "name": "Figma",
-            "img": "./src/assets/habilidades/figma.png"
+            "img": "./src/assets/figma.png"
         },
         {
             "name": "photoshop",
-            "img": "src/assets/habilidades/photoshop.png"
+            "img": "src/assets/photoshop.png"
         },
         {
             "name": "illustrator",
-            "img": "src/assets/habilidades/illustrator.png"
+            "img": "src/assetsillustrator.png"
         },
         {
             "name": "indesign",
-            "img": "src/assets/habilidades/indesign.png"
+            "img": "src/assets/indesign.png"
         },
         {
             "name": "notion",
-            "img": "src/assets/habilidades/notion.png"
+            "img": "src/assets/notion.png"
         },
         {
             "name": "vscode",
-            "img": "src/assets/habilidades/vscode.png"
+            "img": "src/assets/vscode.png"
         },
         {
             "name": "git",
-            "img": "src/assets/habilidades/git.png"
+            "img": "src/assets/git.png"
         },
         {
             "name": "wordpress",
-            "img": "src/assets/habilidades/wordpress.png"
+            "img": "src/assets/wordpress.png"
         },
         {
             "name": "html 5",
-            "img": "src/assets/habilidades/html5.png"
+            "img": "src/assets/html5.png"
         },
         {
             "name": "css 3",
-            "img": "src/assets/habilidades/css3.png"
+            "img": "src/assets/css3.png"
         },
         {
             "name": "javascript",
-            "img": "src/assets/habilidades/javascript.png"
+            "img": "src/assets/javascript.png"
         },
         {
             "name": "react",
-            "img": "src/assets/habilidades/react.png"
+            "img": "src/assets/react.png"
         }
     ]
 }
