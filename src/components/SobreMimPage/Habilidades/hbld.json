@@ -2,51 +2,51 @@
     "hbld":[
         {
             "name": "Figma",
-            "img": "./src/assets/figma.png"
+            "img": "https://carlosmsdesign.com.br/portfolio/img/figma.png"
         },
         {
             "name": "photoshop",
-            "img": "src/assets/photoshop.png"
+            "img": "https://carlosmsdesign.com.br/portfolio/img/photoshop.png"
         },
         {
             "name": "illustrator",
-            "img": "src/assetsillustrator.png"
+            "img": "https://carlosmsdesign.com.br/portfolio/img/illustrator.png"
         },
         {
             "name": "indesign",
-            "img": "src/assets/indesign.png"
+            "img": "https://carlosmsdesign.com.br/portfolio/img/indesign.png"
         },
         {
             "name": "notion",
-            "img": "src/assets/notion.png"
+            "img": "https://carlosmsdesign.com.br/portfolio/img/notion.png"
         },
         {
             "name": "vscode",
-            "img": "src/assets/vscode.png"
+            "img": "https://carlosmsdesign.com.br/portfolio/img/vscode.png"
         },
         {
             "name": "git",
-            "img": "src/assets/git.png"
+            "img": "https://carlosmsdesign.com.br/portfolio/img/git.png"
         },
         {
             "name": "wordpress",
-            "img": "src/assets/wordpress.png"
+            "img": "https://carlosmsdesign.com.br/portfolio/img/wordpress.png"
         },
         {
             "name": "html 5",
-            "img": "src/assets/html5.png"
+            "img": "https://carlosmsdesign.com.br/portfolio/img/html5.png"
         },
         {
             "name": "css 3",
-            "img": "src/assets/css3.png"
+            "img": "https://carlosmsdesign.com.br/portfolio/img/css3.png"
         },
         {
             "name": "javascript",
-            "img": "src/assets/javascript.png"
+            "img": "https://carlosmsdesign.com.br/portfolio/img/javascript.png"
         },
         {
             "name": "react",
-            "img": "src/assets/react.png"
+            "img": "https://carlosmsdesign.com.br/portfolio/img/react.png"
         }
     ]
 }
