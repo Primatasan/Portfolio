@@ -2,7 +2,7 @@
     "hbld":[
         {
             "name": "Figma",
-            "img": "src/assets/habilidades/figma.png"
+            "img": "habilidades/figma.png"
         },
         {
             "name": "photoshop",
