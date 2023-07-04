@@ -5,6 +5,7 @@ import Post from "./components/Post";
 
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import ScrollToTop from "./components/ScrollTotop";
+import Page404 from "./components/Page404";
 
 
 export default function RoutesApp() {
@@ -16,7 +17,9 @@ export default function RoutesApp() {
           <Route index element={<SobreMimPage />}/>
           <Route path="portfolio" element={<Portfolio />}/>
           <Route path="post/:id" element={<Post />} />
+          <Route path="*" element={<Page404 />} />
         </Route>
+
       </Routes>
       <ScrollToTop />
     </BrowserRouter>

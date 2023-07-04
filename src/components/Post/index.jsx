@@ -1,26 +1,30 @@
 import './Post.css'
+import Page404 from '/src/components/Page404';
 
-import { useParams } from "react-router-dom"
+import { useNavigate, useParams } from "react-router-dom"
 import {projetos} from "/src/assets/projetos.json"
+
 
 export default function Post(){
 
     const parametro = useParams();
 
+    const back = useNavigate();
 
     const post = projetos.find((e) => {
         return e.id === Number(parametro.id)
     })
 
     if(!post){
-        return <h1 style={{color:'white',textAlign:'center', padding:'2em 0'}}>Post não encontrado...</h1>
+        return <Page404 />
     }
 
     return(
      <article className="post_main">
         <div className="post_title">
             <h2>{post.titulo}</h2>
-            <h3>{post.subtitulo}</h3>
+            <h3>{post.subtitulo}</h3> 
+            <p className='breadcrumbs botao' onClick={() => back(-1)}>Voltar</p>
         </div>
         <div className="block">
             <h3>{post.bloco.titulo1}</h3>

@@ -1,0 +1,42 @@
+.box_404{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: var(--font-color);
+}
+
+.box_404 h1{
+    font-size: var(--big-font-size);
+    font-family: var(--header-font-family);
+    margin-bottom: 0.2em;
+}
+
+.box_404 h2{
+    font-size: var(--h2-font-size);
+    font-family: var(--header-font-family);
+    margin-bottom: 0.2em;
+}
+
+.box_404 h3{
+    font-size: var(--h3-font-size);
+    font-family: var(--header-font-family);
+    margin-bottom: 0.2em;
+}
+
+
+.box_404 > .botao{
+    text-decoration: none;
+    background-color: var(--highlight-color);
+    color: var(--font-color);
+    font-family: var(--header-font-family);
+    font-size: var(--p-font-size);
+    margin: 2em 0;
+    padding: 0.2em 0.5em;
+    border-radius: 0.3em;
+    transition: all 300ms ease-in-out;
+    cursor: pointer;
+}
+
+.box_404 > .botao:hover{
+    background-color: var(--secundary-bg-color);
+}
